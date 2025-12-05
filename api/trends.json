@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T12:21:40.924958+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2025-12-05T13:13:16.880242+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -305,8 +305,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 12时21分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时13分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.40%，报319.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.37%，报2284.55点；北京时间22:30美股开盘之前微跌、持稳于2270点上方，23:08刷新日低至2252.98点，之后快速转涨。",
@@ -469,6 +469,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时13分]"
+        },
+        {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
           "url": "https://wallstreetcn.com/articles/3760712",
           "source": "华尔街见闻",
@@ -479,20 +491,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 12时21分]"
-        },
-        {
-          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
-          "url": "https://wallstreetcn.com/articles/3760711",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 12时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 13时13分]"
         },
         {
           "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
@@ -574,11 +574,12 @@
             4,
             6,
             9,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 12时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 13时13分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -658,6 +659,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时13分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
           "url": "https://flash.jin10.com/detail/20251205025109547800",
           "source": "金十数据",
@@ -668,17 +681,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时11分]"
-        },
-        {
-          "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时21分]"
         }
       ]
     },
