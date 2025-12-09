@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T18:14:36.686533+08:00",
-  "total_titles_processed": 1695,
+  "generated_at": "2025-12-09T19:11:47.497153+08:00",
+  "total_titles_processed": 1789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -56,6 +56,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时18分 ~ 15时15分]"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时14分 ~ 19时11分]"
         },
         {
           "title": "美议员急了：特朗普你得拉一把日本啊",
@@ -122,19 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时14分 ~ 18时14分]"
         },
         {
           "title": "特朗普女婿，“杀回来了”",
@@ -614,6 +615,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-09）",
+          "url": "https://flash.jin10.com/detail/20251209181308403800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "市场消息：美国最高法院暗示，将支持特朗普罢免（联邦政府）机构主管的做法。",
           "url": "https://flash.jin10.com/detail/20251209013000707800",
           "source": "金十数据",
@@ -694,7 +706,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -882,6 +894,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "英伟达美股盘前涨幅收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3017613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "周一（12月8日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨2.01%，报91405美元。 CME以太币期货DCR主力合约涨4.13%，报3154.50美元。 美股加密货币与加密货币关联指数涨1.91%，报70.39点。 最近24小时，MarketVector数字资产100小盘指数涨2.69%，暂报4159.64点。",
           "url": "https://wallstreetcn.com/livenews/3017179",
           "source": "华尔街见闻-快讯",
@@ -1067,6 +1090,18 @@
           "time_info": "[02时18分 ~ 04时13分]"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时11分]"
+        },
+        {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
           "url": "https://wallstreetcn.com/livenews/3017156",
           "source": "华尔街见闻-快讯",
@@ -1077,17 +1112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时11分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
         },
         {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
@@ -1218,6 +1242,21 @@
           "time_info": "[01时13分 ~ 08时52分]"
         },
         {
+          "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
+          "url": "https://www.zhihu.com/question/1981658527434053567",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16,
+            12,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时18分 ~ 19时11分]"
+        },
+        {
           "title": "梁文锋入选《自然》年度十大科学人物",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E5%85%A5%E9%80%89%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E7%A7%91%E5%AD%A6%E4%BA%BA%E7%89%A9",
           "source": "百度热搜",
@@ -1230,21 +1269,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 07时11分]"
-        },
-        {
-          "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
-          "url": "https://www.zhihu.com/question/1981658527434053567",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16,
-            12,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时18分 ~ 18时14分]"
         }
       ]
     },
@@ -1302,8 +1326,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时51分 ~ 18时14分]"
+          "appearance_count": 16,
+          "time_info": "[08时51分 ~ 19时11分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
@@ -1353,7 +1377,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
