@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:17:07.168784+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2025-12-14T15:12:12.200834+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时54分 ~ 14时17分]"
+          "appearance_count": 11,
+          "time_info": "[10时54分 ~ 15时12分]"
+        },
+        {
+          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
+          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时54分 ~ 15时12分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -61,6 +72,19 @@
           "time_info": "[00时13分 ~ 12时30分]"
         },
         {
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时54分 ~ 15时12分]"
+        },
+        {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
           "url": "https://www.cls.cn/detail/2228592",
           "source": "财联社热门",
@@ -102,17 +126,6 @@
           "time_info": "[00时12分 ~ 08时57分]"
         },
         {
-          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
-          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时54分 ~ 14时17分]"
-        },
-        {
           "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
           "url": "https://wallstreetcn.com/articles/3761314",
           "source": "华尔街见闻",
@@ -122,19 +135,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时54分 ~ 14时17分]"
         },
         {
           "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
@@ -149,6 +149,19 @@
           "time_info": "[00时13分 ~ 08时57分]"
         },
         {
+          "title": "特朗普对其经济政策能否助力中期选举存疑",
+          "url": "https://flash.jin10.com/detail/20251214101831272800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 15时12分]"
+        },
+        {
           "title": "详解特朗普金卡白金卡签证",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%99%BD%E9%87%91%E5%8D%A1%E7%AD%BE%E8%AF%81",
           "source": "bilibili 热搜",
@@ -159,6 +172,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 12时30分]"
+        },
+        {
+          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
+          "url": "https://flash.jin10.com/detail/20251214100231761800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 15时12分]"
         },
         {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
@@ -172,32 +198,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时09分 ~ 08时57分]"
-        },
-        {
-          "title": "特朗普对其经济政策能否助力中期选举存疑",
-          "url": "https://flash.jin10.com/detail/20251214101831272800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时55分 ~ 14时17分]"
-        },
-        {
-          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
-          "url": "https://flash.jin10.com/detail/20251214100231761800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时55分 ~ 14时17分]"
         },
         {
           "title": "特朗普：希望利率在一年内降至1%或更低",
@@ -257,6 +257,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 13时13分]"
+        },
+        {
+          "title": "特朗普或因说漏嘴致间谍曝光",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%9B%A0%E8%AF%B4%E6%BC%8F%E5%98%B4%E8%87%B4%E9%97%B4%E8%B0%8D%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时16分 ~ 15时12分]"
         },
         {
           "title": "特朗普或因说漏嘴致间谍曝光",
@@ -324,17 +336,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
-        },
-        {
-          "title": "特朗普或因说漏嘴致间谍曝光",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%9B%A0%E8%AF%B4%E6%BC%8F%E5%98%B4%E8%87%B4%E9%97%B4%E8%B0%8D%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时16分"
         }
       ]
     },
@@ -376,8 +377,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 14时17分]"
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 15时12分]"
         }
       ]
     },
@@ -396,8 +397,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时12分 ~ 14时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时12分 ~ 15时12分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -443,11 +444,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时12分 ~ 14时17分]"
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 15时12分]"
         }
       ]
     }
