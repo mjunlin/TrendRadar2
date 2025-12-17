@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:16:01.973170+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2025-12-17T16:17:59.670877+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -108,11 +108,12 @@
             1,
             2,
             10,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时49分 ~ 15时16分]"
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 16时17分]"
         },
         {
           "title": "报道：特朗普计划对逾期、超预算的国防承包商实施财务限制",
@@ -124,6 +125,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 16时17分]"
         },
         {
           "title": "特朗普封锁委内瑞拉油轮刺激油价反弹 但全球供应过剩压力巨大",
@@ -146,17 +159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 15时16分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -245,6 +247,18 @@
           "time_info": "[04时14分 ~ 05时13分]"
         },
         {
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 16时17分]"
+        },
+        {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
           "url": "https://wallstreetcn.com/articles/3761439",
           "source": "华尔街见闻",
@@ -302,17 +316,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时13分]"
-        },
-        {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
         },
         {
           "title": "金十整理：特朗普对委施压手段层层加码，委原油应声折价、马杜罗政权承压",
@@ -536,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "特朗普签署公告 进一步限制外国公民入境美国",
+          "url": "https://www.cls.cn/detail/2231615",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "委内瑞拉副总统：特朗普正以威胁手段图谋掠夺本国资源。",
