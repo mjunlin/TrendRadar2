@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T18:14:20.276083+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2025-12-17T19:12:26.249548+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
@@ -126,8 +126,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时15分 ~ 18时14分]"
+          "appearance_count": 9,
+          "time_info": "[13时15分 ~ 19时12分]"
         },
         {
           "title": "报道：特朗普计划对逾期、超预算的国防承包商实施财务限制",
@@ -158,7 +158,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
