@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T12:01:45.197274+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2025-12-22T12:43:07.832376+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 12时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时12分 ~ 12时43分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -53,11 +53,12 @@
             19,
             17,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时08分 ~ 12时01分]"
+          "appearance_count": 12,
+          "time_info": "[03时08分 ~ 12时43分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -66,11 +67,12 @@
           "ranks": [
             19,
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时15分 ~ 12时01分]"
+          "appearance_count": 14,
+          "time_info": "[02时15分 ~ 12时43分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -169,9 +171,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 12时43分]"
         },
         {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
@@ -180,9 +182,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
         },
         {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
@@ -202,7 +215,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -294,8 +307,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 12时01分]"
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 12时43分]"
         },
         {
           "title": "美军为何批量山寨伊朗“小摩托”",
@@ -345,7 +358,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -397,9 +410,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 12时43分]"
         }
       ]
     },
@@ -417,8 +430,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 12时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时12分 ~ 12时43分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -428,8 +441,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 12时01分]"
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 12时43分]"
         }
       ]
     },
