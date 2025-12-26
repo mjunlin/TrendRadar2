@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T19:11:17.806512+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2025-12-26T20:21:28.532294+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时48分 ~ 19时11分]"
+          "appearance_count": 14,
+          "time_info": "[10时48分 ~ 20时21分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -119,6 +119,17 @@
           "time_info": "[02时16分 ~ 06时11分]"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 20时21分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -131,17 +142,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时11分 ~ 04时13分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 19时11分]"
         },
         {
           "title": "专家：特朗普或在2026“压榨”美联储",
@@ -293,8 +293,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时48分 ~ 19时11分]"
+          "appearance_count": 14,
+          "time_info": "[10时48分 ~ 20时21分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
