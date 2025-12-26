@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T12:27:41.242059+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2025-12-26T13:14:53.570772+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 12时27分]"
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 13时14分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -43,6 +44,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时16分 ~ 06时11分]"
+        },
+        {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 13时14分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -76,17 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 12时27分]"
         },
         {
           "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
@@ -210,6 +211,18 @@
           "time_info": "[00时14分 ~ 08时53分]"
         },
         {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 13时14分]"
+        },
+        {
           "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
           "url": "https://flash.jin10.com/detail/20251226101958346800",
           "source": "金十数据",
@@ -219,18 +232,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
-        },
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 12时27分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -252,22 +253,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时14分]"
         },
         {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
           "url": "https://flash.jin10.com/detail/20251226112935984800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时14分]"
         },
         {
           "title": "中金：建议淡化黄金价格点位预测 更关注资产趋势改变时点",
@@ -363,11 +366,12 @@
           "url": "https://flash.jin10.com/detail/20251226112952955800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时14分]"
         }
       ]
     },
@@ -385,8 +389,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 12时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 13时14分]"
         }
       ]
     },
