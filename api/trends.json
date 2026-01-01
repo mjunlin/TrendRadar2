@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-01T11:08:14.366491+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-01-01T12:40:24.059548+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
           "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时00分 ~ 11时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时00分 ~ 12时40分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -95,6 +96,18 @@
           "time_info": "[06时12分 ~ 07时11分]"
         },
         {
+          "title": "美法院裁定特朗普政府须将加州国民警卫队指挥权交还州长",
+          "url": "https://wallstreetcn.com/livenews/3029538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时40分]"
+        },
+        {
           "title": "非洲股市收盘播报｜周三（12月31日），南非富时/JSE非洲领先40可交易指数收跌0.69%，报10.8万点，大致持稳于12月24日所创历史最高位（接近11.0万点）附近。 南非股市2025年累计上涨大约46.35%，虽然屡屡遭到特朗普政府的威胁，但月线上仍然全年走高、连续四个季度走强，并连续三年上涨。",
           "url": "https://wallstreetcn.com/livenews/3029419",
           "source": "华尔街见闻-快讯",
@@ -144,25 +157,25 @@
         },
         {
           "title": "美法院裁定特朗普政府须将加州国民警卫队指挥权交还州长",
-          "url": "https://wallstreetcn.com/livenews/3029538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "美法院裁定特朗普政府须将加州国民警卫队指挥权交还州长",
           "url": "https://flash.jin10.com/detail/20260101101032999800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
+          "url": "https://flash.jin10.com/detail/20260101113737125800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "美国总统特朗普：我们将从芝加哥、洛杉矶和波特兰撤回国民警卫队。",
@@ -185,6 +198,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美国白宫：特朗普总统签署公告，将软包家具、厨房橱柜和浴室柜的关税上调计划推迟一年。",
+          "url": "https://flash.jin10.com/detail/20260101111825003800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "美国白宫：特朗普总统调整了进入美国的木材、木料及其衍生产品的进口政策。",
+          "url": "https://flash.jin10.com/detail/20260101111709020800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     },
@@ -224,8 +259,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时00分 ~ 11时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时00分 ~ 12时40分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -366,11 +401,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时00分 ~ 11时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时00分 ~ 12时40分]"
         }
       ]
     },
