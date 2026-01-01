@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T13:20:21.603535+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-01-01T14:19:28.987107+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 14时19分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -260,8 +260,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 14时19分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -403,11 +403,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 14时19分]"
         }
       ]
     },
