@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T16:17:39.157630+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-01-16T17:18:03.922248+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 81,
       "titles": [
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
@@ -42,6 +42,19 @@
           "time_info": "[08时55分 ~ 16时17分]"
         },
         {
+          "title": "特朗普暂缓对伊朗动武决定",
+          "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时59分 ~ 17时18分]"
+        },
+        {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
           "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
           "source": "凤凰网",
@@ -53,40 +66,44 @@
           "time_info": "[00时22分 ~ 07时12分]"
         },
         {
-          "title": "特朗普暂缓对伊朗动武决定",
-          "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 16时17分]"
-        },
-        {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
           "url": "https://wallstreetcn.com/articles/3763392",
           "source": "华尔街见闻",
           "ranks": [
             9,
             8,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时55分 ~ 16时17分]"
+          "appearance_count": 13,
+          "time_info": "[08时55分 ~ 17时18分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 16时17分]"
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 17时18分]"
+        },
+        {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时59分 ~ 17时18分]"
         },
         {
           "title": "美国总统特朗普：我们已经正式进入加沙“20点和平计划”的下一阶段。",
@@ -312,19 +329,6 @@
           "time_info": "[10时55分 ~ 11时59分]"
         },
         {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 16时17分]"
-        },
-        {
           "title": "白宫新闻秘书莱维特：欧洲国家向格陵兰岛派兵不会影响美国总统特朗普关于格陵兰岛的决定。",
           "url": "https://flash.jin10.com/detail/20260116024657437800",
           "source": "金十数据",
@@ -358,6 +362,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时18分 ~ 14时20分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 17时18分]"
         },
         {
           "title": "马查多把诺贝尔和平奖颁给特朗普",
@@ -783,15 +798,15 @@
           "time_info": "10时55分"
         },
         {
-          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
-          "url": "https://www.zhihu.com/question/1995430633518944539",
-          "source": "知乎",
+          "title": "特朗普称“阻挠达成俄乌和平协议的人是泽连斯基”，泽连斯基表态",
+          "url": "https://wallstreetcn.com/livenews/3038633",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "17时18分"
         },
         {
           "title": "特朗普发布“伟大医疗计划”：聚焦药价与透明度 大选前夕豪赌医改",
@@ -929,7 +944,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "王毅同伊朗外长通话，连说3个“反对”",
@@ -950,11 +965,12 @@
             4,
             5,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时24分 ~ 16时17分]"
+          "appearance_count": 20,
+          "time_info": "[01时24分 ~ 17时18分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -965,11 +981,12 @@
             5,
             7,
             17,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 14时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 17时18分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -984,8 +1001,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 16时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 17时18分]"
         },
         {
           "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
@@ -1097,6 +1114,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 06时13分]"
+        },
+        {
+          "title": "中方代表就伊朗局势发声：呼吁美方放下武力执念",
+          "url": "https://news.ifeng.com/c/8pxoIN8xmXt",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "美国财政部对伊朗实施新制裁",
@@ -1369,7 +1397,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -1380,8 +1408,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时55分 ~ 16时17分]"
+          "appearance_count": 13,
+          "time_info": "[08时55分 ~ 17时18分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1420,6 +1448,20 @@
           "time_info": "[07时12分 ~ 13时18分]"
         },
         {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 17时18分]"
+        },
+        {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2259424",
           "source": "财联社热门",
@@ -1434,20 +1476,6 @@
           "time_info": "[03时17分 ~ 10时55分]"
         },
         {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 16时17分]"
-        },
-        {
           "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，美元站上99关口，金银微跌",
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
@@ -1457,6 +1485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美股盘前，半导体股上涨，美光科技涨近4%、AMD涨超2%、台积电涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3038653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
@@ -1645,7 +1684,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1691,11 +1730,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时54分 ~ 16时17分]"
+          "appearance_count": 10,
+          "time_info": "[10时54分 ~ 17时18分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
