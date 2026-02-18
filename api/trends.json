@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T22:01:43.249136+08:00",
-  "total_titles_processed": 1792,
+  "generated_at": "2026-02-18T22:48:39.499620+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时33分 ~ 22时01分]"
+          "appearance_count": 10,
+          "time_info": "[16时33分 ~ 22时48分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -580,8 +580,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时11分 ~ 22时01分]"
+          "appearance_count": 14,
+          "time_info": "[12时11分 ~ 22时48分]"
         },
         {
           "title": "万斯：美方向伊朗划定“红线”",
@@ -745,6 +745,18 @@
           "time_info": "[17时36分 ~ 18时34分]"
         },
         {
+          "title": "俄罗斯与伊朗海军在阿曼湾举行演练",
+          "url": "https://wallstreetcn.com/livenews/3056340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时48分]"
+        },
+        {
           "title": "伊朗总统：伊朗愿就其核工业和平性质接受任何形式核查",
           "url": "https://flash.jin10.com/detail/20260218023510875800",
           "source": "金十数据",
@@ -765,17 +777,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
-        },
-        {
-          "title": "俄罗斯与伊朗海军在阿曼湾举行演练",
-          "url": "https://wallstreetcn.com/livenews/3056340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
         },
         {
           "title": "伊朗总统：决心迅速准确落实伊俄全面战略合作计划",
@@ -850,7 +851,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -913,7 +914,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -924,8 +925,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时09分 ~ 22时01分]"
+          "appearance_count": 15,
+          "time_info": "[09时09分 ~ 22时48分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -949,19 +950,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时44分 ~ 22时01分]"
+          "appearance_count": 28,
+          "time_info": "[00时44分 ~ 22时48分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
           "url": "https://www.cls.cn/detail/2291354",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时11分 ~ 22时01分]"
+          "appearance_count": 14,
+          "time_info": "[12时11分 ~ 22时48分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -972,8 +974,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时36分 ~ 22时01分]"
+          "appearance_count": 9,
+          "time_info": "[17时36分 ~ 22时48分]"
         },
         {
           "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
@@ -998,15 +1000,26 @@
           "time_info": "07时19分"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3056347",
+          "title": "美股盘初：黄金股、中概股普涨，英伟达涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3056361",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美股高开，道指涨0.16%、标普500指数涨0.28%、纳指涨0.23%。英伟达(NVDA.O)涨1.8%，Meta与该公司签署数十亿美元多年期协议。纳斯达克中国金龙指数涨0.26%。",
+          "url": "https://flash.jin10.com/detail/20260218223031911800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "Analog Devices第一财季营收31.6亿美元，预估31.2亿美元。 第一财季每股收益1.69美元，预估1.61美元。 Analog Devices美股盘前涨近4%。",
@@ -1042,6 +1055,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时48分]"
         },
         {
           "title": "周二（2月17日）纽约尾盘，彭博电动汽车价格回报指数跌0.36%，报3612.03点，全天处于下跌状态，美股开盘后短线跳水至3591.48点、随后逐步收复这一波失地。 成分股中，EVgo目前跌约7.9%，“特斯拉劲敌”Rivian跌6.8%，Lucid集团跌3.7%，普拉格动力跌3.4%，MobilEye Global Inc.则涨1.5%，美国雅宝涨2.3%，禾赛科技涨4.6%。",
@@ -1123,6 +1148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-18）",
+          "url": "https://flash.jin10.com/detail/20260218220340742800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "Meta与英伟达打造AI基础设施。Meta将加大部署英伟达CPU。 英伟达宣布，与对方达成持续多年的合作伙伴关系。 英伟达美股盘后涨1.1%，AMD跌幅扩大至3.6%。",
@@ -1434,7 +1470,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         }
