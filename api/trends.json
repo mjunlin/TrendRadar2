@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T22:16:21.655193+08:00",
-  "total_titles_processed": 1961,
+  "generated_at": "2026-04-02T23:51:56.496503+08:00",
+  "total_titles_processed": 2057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 179,
+      "match_count": 196,
       "titles": [
         {
           "title": "伊朗总统发表致美国人民的公开信",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时13分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 23时51分]"
         },
         {
           "title": "伊朗总统称要结束战争、对方须保证不再侵略，伊外长称与美有信息交流但没谈判",
@@ -65,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时13分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 23时51分]"
         },
         {
           "title": "伊朗副议长称目前最高领袖未批准任何谈判，如何解读？美伊关系未来将如何发展？",
@@ -89,8 +89,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时13分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 23时51分]"
         },
         {
           "title": "中俄协助伊朗？美防长回应",
@@ -166,11 +166,12 @@
             19,
             23,
             21,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时27分 ~ 22时16分]"
+          "appearance_count": 12,
+          "time_info": "[07时27分 ~ 23时51分]"
         },
         {
           "title": "国际足联称伊朗将参加世界杯",
@@ -190,8 +191,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时02分 ~ 22时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时02分 ~ 23时51分]"
         },
         {
           "title": "伊朗总统和外长现身德黑兰街头",
@@ -243,6 +244,23 @@
           "time_info": "[00时02分 ~ 06时26分]"
         },
         {
+          "title": "60秒｜攻占伊朗哈尔克岛为何是美军“红线”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869815",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时58分 ~ 23时51分]"
+        },
+        {
           "title": "【早报】伊朗总统发表致美国人民公开信；宇树科技、中科宇航被抽中现场检查",
           "url": "https://www.cls.cn/detail/2332729",
           "source": "财联社热门",
@@ -253,6 +271,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时27分 ~ 15时58分]"
+        },
+        {
+          "title": "伊朗已向中国寻求安全保障？外交部回应",
+          "url": "https://www.cls.cn/detail/2333337",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时51分 ~ 23时51分]"
         },
         {
           "title": "伊朗总统说遵从最高领袖指示",
@@ -291,36 +323,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时38分 ~ 22时16分]"
-        },
-        {
-          "title": "60秒｜攻占伊朗哈尔克岛为何是美军“红线”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869815",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时58分 ~ 22时16分]"
-        },
-        {
-          "title": "伊朗已向中国寻求安全保障？外交部回应",
-          "url": "https://www.cls.cn/detail/2333337",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时51分 ~ 22时16分]"
         },
         {
           "title": "美以难阻伊朗导弹反击",
@@ -362,6 +364,17 @@
           "time_info": "18时42分"
         },
         {
+          "title": "美以伊战争丨美军提交夺取伊朗浓缩铀方案",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "以色列国防军发现来自伊朗的新一轮弹道导弹攻击，目标是以色列北部。",
           "url": "https://flash.jin10.com/detail/20260402121339119800",
           "source": "金十数据",
@@ -382,6 +395,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
+        },
+        {
+          "title": "伊朗媒体Fars News列出科威特、沙特阿拉伯、阿布扎比和约旦的多座桥梁，称其为伊朗军事行动的潜在目标。 布伦特原油5分钟内下跌0.54美元/桶，报106.9美元/桶。 现货黄金5分钟内上涨10.61美元/盎司，报4674.47美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3081699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "伊朗指控美国使用新型导弹，致21名运动员遇难",
+          "url": "https://news.ifeng.com/c/8s072hDEVK2",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯已准备好成为伊朗局势的调解者。",
@@ -415,6 +450,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "伊朗媒体Fars News列出科威特、沙特阿拉伯、阿布扎比和约旦的多座桥梁，称其为伊朗军事行动的潜在目标。",
+          "url": "https://flash.jin10.com/detail/20260402233206351800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "伊朗：敌方若发动地面进攻，将全军覆没",
+          "url": "https://news.ifeng.com/c/8rzvMvpSGnR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时42分 ~ 23时51分]"
         },
         {
           "title": "伊朗重申将封锁霍尔木兹海峡作为反制手段",
@@ -528,6 +585,19 @@
           "time_info": "[03时51分 ~ 06时26分]"
         },
         {
+          "title": "外媒称伊朗已向中国寻求安全保障，如果这些保障能够提供，美以伊或能达成停火协议，外交部：中方支持一切有利于和平的努力",
+          "url": "https://wallstreetcn.com/articles/3769089",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 23时51分]"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：伊朗对普通美国人没有敌意。",
           "url": "https://flash.jin10.com/detail/20260402023946634800",
           "source": "金十数据",
@@ -591,17 +661,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时52分 ~ 05时33分]"
-        },
-        {
-          "title": "伊朗：敌方若发动地面进攻，将全军覆没",
-          "url": "https://news.ifeng.com/c/8rzvMvpSGnR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时42分 ~ 22时16分]"
         },
         {
           "title": "伊朗军方高官：抵抗阵线在对美以战斗中展现力量",
@@ -788,6 +847,17 @@
           "time_info": "[19时38分 ~ 20时45分]"
         },
         {
+          "title": "伊朗称渗透以防空指挥系统支持公司，获取机密资料",
+          "url": "https://news.ifeng.com/c/8s02Joowe1t",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时38分 ~ 23时51分]"
+        },
+        {
           "title": "伊朗称敌方若发动地面进攻将无一幸免",
           "url": "https://www.toutiao.com/trending/7624076023235087878/",
           "source": "今日头条",
@@ -800,6 +870,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时42分 ~ 22时16分]"
+        },
+        {
+          "title": "伊朗实施“真实承诺4”第90波行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E2%80%9D%E7%AC%AC90%E6%B3%A2%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时38分 ~ 23时51分]"
         },
         {
           "title": "伊朗军方称战争将持续至敌人投降",
@@ -839,6 +922,29 @@
           "time_info": "[09时13分 ~ 14时06分]"
         },
         {
+          "title": "伊朗革命卫队特种部队指挥官身亡",
+          "url": "https://www.toutiao.com/trending/7624124358142742079/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 23时51分]"
+        },
+        {
+          "title": "伊朗一特种部队指挥官身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%80%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F%E6%8C%87%E6%8C%A5%E5%AE%98%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 23时51分]"
+        },
+        {
           "title": "摩根士丹利全球兼并（M&A）主管Tom Miles：目前而言，伊朗战争和石油价格飙涨并没有造成企业并购活动放缓。 虽然面临全球性干扰，但企业并购活动能够继续推进。",
           "url": "https://wallstreetcn.com/livenews/3081051",
           "source": "华尔街见闻-快讯",
@@ -850,6 +956,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时38分 ~ 02时44分]"
+        },
+        {
+          "title": "伊朗：美以对伊朗能力一无所知，将战至敌人投降",
+          "url": "https://wallstreetcn.com/articles/3769073",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 23时51分]"
         },
         {
           "title": "伊朗总统：伊朗人民对其他国家没有敌意",
@@ -865,28 +983,15 @@
           "time_info": "[03时52分 ~ 05时33分]"
         },
         {
-          "title": "伊朗称渗透以防空指挥系统支持公司，获取机密资料",
-          "url": "https://news.ifeng.com/c/8s02Joowe1t",
-          "source": "凤凰网",
+          "title": "伊朗称美以对伊朗能力一无所知，将战至「敌人悔恨不已并投降」，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2023061688874706402",
+          "source": "知乎",
           "ranks": [
-            11
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时38分 ~ 22时16分]"
-        },
-        {
-          "title": "伊朗实施“真实承诺4”第90波行动",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E2%80%9D%E7%AC%AC90%E6%B3%A2%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 22时16分]"
+          "time_info": "[20时45分 ~ 23时51分]"
         },
         {
           "title": "俄方称伊朗最高领袖身在伊朗避免露面",
@@ -900,29 +1005,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时34分 ~ 06时26分]"
-        },
-        {
-          "title": "伊朗革命卫队特种部队指挥官身亡",
-          "url": "https://www.toutiao.com/trending/7624124358142742079/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 22时16分]"
-        },
-        {
-          "title": "外媒称伊朗已向中国寻求安全保障，如果这些保障能够提供，美以伊或能达成停火协议，外交部：中方支持一切有利于和平的努力",
-          "url": "https://wallstreetcn.com/articles/3769089",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 22时16分]"
         },
         {
           "title": "IMF、世界银行和IEA将协同行动应对伊朗危机",
@@ -997,18 +1079,6 @@
           "time_info": "[09时13分 ~ 12时19分]"
         },
         {
-          "title": "伊朗一特种部队指挥官身亡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%80%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F%E6%8C%87%E6%8C%A5%E5%AE%98%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 22时16分]"
-        },
-        {
           "title": "越南正与伊朗合作，确保其船只安全通过。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3081455",
           "source": "华尔街见闻-快讯",
@@ -1067,17 +1137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时58分 ~ 16时51分]"
-        },
-        {
-          "title": "伊朗：美以对伊朗能力一无所知，将战至敌人投降",
-          "url": "https://wallstreetcn.com/articles/3769073",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 22时16分]"
         },
         {
           "title": "WTI原油跌破100美元/桶关口，报99.85美元/桶 据Mehr报道，伊朗客运机场Kashan（卡尚）遭到美国和以色列的袭击。",
@@ -1296,17 +1355,6 @@
           "time_info": "[03时52分 ~ 04时34分]"
         },
         {
-          "title": "伊朗称美以对伊朗能力一无所知，将战至「敌人悔恨不已并投降」，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2023061688874706402",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 22时16分]"
-        },
-        {
           "title": "伊朗强调不理会美以的“幻想与谎言”",
           "url": "https://wallstreetcn.com/livenews/3081040",
           "source": "华尔街见闻-快讯",
@@ -1372,7 +1420,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1405,7 +1453,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1421,6 +1469,17 @@
           "time_info": "16时51分"
         },
         {
+          "title": "伊朗：打击亚马逊位于巴林的计算中心",
+          "url": "https://wallstreetcn.com/livenews/3081692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "伊朗：非侵略方船只可在协调后通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3081451",
           "source": "华尔街见闻-快讯",
@@ -1432,6 +1491,28 @@
           "time_info": "16时51分"
         },
         {
+          "title": "伊朗警告称敢发动地面战绝不留活口",
+          "url": "https://wallstreetcn.com/livenews/3081691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "霍尔木兹主航道被堵，船只批量绕道伊朗拉腊克岛\"缴费通行\"",
+          "url": "https://wallstreetcn.com/articles/3769081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "伊朗高级消息人士：尚未通过任何中间方就临时停火进行谈判。",
           "url": "https://flash.jin10.com/detail/20260402054001607800",
           "source": "金十数据",
@@ -1441,6 +1522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "伊朗革命卫队：第90波“真实承诺4”行动是对敌人无视昨日警告的第一次实际警告，如果暗杀行动继续，之前宣布的下一个公司将受到更严厉的惩罚，完全摧毁这些公司在该地区的责任将由美国总统亲自承担。",
+          "url": "https://flash.jin10.com/detail/20260402232218098800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "以媒说以色列担忧美国可能宣布结束对伊朗军事行动",
@@ -1463,6 +1555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "伊朗副外长：将为途经霍尔木兹海峡的船只征收通行费。",
+          "url": "https://wallstreetcn.com/livenews/3081690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "加拿大央行会议纪要：目前评估伊朗战争对经济前景的影响为时过早。",
@@ -1498,6 +1601,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "伊朗方面的报道称，伊朗革命卫队称，已执行第90波“真实承诺4”行动的第三阶段，针对巴林的亚马逊云计算中心。",
+          "url": "https://flash.jin10.com/detail/20260402232003808800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "伊朗公布最新战果",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E6%9C%80%E6%96%B0%E6%88%98%E6%9E%9C%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -1531,6 +1645,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "据伊朗学生通讯社：伊朗伊斯兰革命卫队称已开始袭击巴林的亚马逊云计算中心。",
+          "url": "https://flash.jin10.com/detail/20260402231848117800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "伊朗说敌军若地面进攻将全军覆没",
           "url": "https://wallstreetcn.com/livenews/3081445",
           "source": "华尔街见闻-快讯",
@@ -1540,6 +1665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称重创美以相关工业及军事目标",
+          "url": "https://wallstreetcn.com/livenews/3081688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "美国驻北约大使惠特克：我们相信伊朗可以选择一条出路。",
@@ -1619,6 +1755,17 @@
           "time_info": "02时44分"
         },
         {
+          "title": "伊朗原油价格自2022年以来首次较布油出现溢价",
+          "url": "https://flash.jin10.com/detail/20260402231650834800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "据伊朗总统办公室信息部门高级官员透露：伊朗在战争问题上的立场未变，将继续保卫国家。（伊朗媒体Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3081009",
           "source": "华尔街见闻-快讯",
@@ -1683,6 +1830,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "海湾合作委员会（GCC）秘书长告诉联合国安理会，海湾地区诸国寻求与伊朗实现正常关系。 海湾多国希望，在安全问题上与伊朗保持透明度。 WTI原油5分钟内上涨0.67美元/桶，报109.3美元/桶。 现货黄金5分钟内下跌5.49美元/盎司，报4680.94美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3081685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "据阿拉伯媒体事件报 (Al Hadath)：伊朗外交部表示，最高领袖身体“健康”，可能会“很快公开露面”。",
@@ -1828,6 +1986,17 @@
           "time_info": "20时45分"
         },
         {
+          "title": "伊朗与阿曼起草霍尔木兹海峡通行协议，标普转涨，新兴市场货币走高",
+          "url": "https://wallstreetcn.com/livenews/3081679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "伊朗最高领袖因战争推迟公开露面",
           "url": "https://www.toutiao.com/trending/7623749990875742262/",
           "source": "今日头条",
@@ -1878,7 +2047,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1903,6 +2072,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "伊朗一道路工程代表作遭美以袭击受损",
+          "url": "https://wallstreetcn.com/livenews/3081676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "中巴关于中东局势五点倡议是否已通报伊朗？外交部：各方应都注意到了",
@@ -2123,12 +2303,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "WTI原油期货维持大约11的涨幅，持稳于111美元上方 据伊朗媒体Mehr报道，伊朗衔接德黑兰与Karaj的B1大桥再次遭到美国和以色列的袭击。",
+          "url": "https://wallstreetcn.com/livenews/3081667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 140,
+      "match_count": 143,
       "titles": [
         {
           "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
@@ -2140,6 +2331,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 06时26分]"
+        },
+        {
+          "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
+          "url": "https://wallstreetcn.com/articles/3769051",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时19分 ~ 23时51分]"
         },
         {
           "title": "马克龙访日暗讽特朗普",
@@ -2188,34 +2391,11 @@
           "time_info": "[00时02分 ~ 07时28分]"
         },
         {
-          "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
-          "url": "https://wallstreetcn.com/articles/3769051",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时19分 ~ 22时16分]"
-        },
-        {
           "title": "完整视频丨特朗普发表全国讲话：对伊朗战事取得决定性胜利",
           "url": "https://v.ifeng.com/c/8rzRV2vcF17",
           "source": "凤凰网",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时19分 ~ 22时16分]"
-        },
-        {
-          "title": "特朗普：若无协议将袭伊所有发电厂",
-          "url": "https://news.ifeng.com/c/8rzSzqLRHdz",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -2228,11 +2408,23 @@
           "ranks": [
             8,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时13分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 23时51分]"
+        },
+        {
+          "title": "特朗普：若无协议将袭伊所有发电厂",
+          "url": "https://news.ifeng.com/c/8rzSzqLRHdz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 22时16分]"
         },
         {
           "title": "特朗普称将很快撤出伊朗战事",
@@ -2250,6 +2442,35 @@
           "time_info": "[00时02分 ~ 20时45分]"
         },
         {
+          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
+          "url": "https://wallstreetcn.com/articles/3769054",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时19分 ~ 23时51分]"
+        },
+        {
+          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
+          "url": "https://www.cls.cn/detail/2333305",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时51分 ~ 23时51分]"
+        },
+        {
           "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
           "url": "https://www.cls.cn/detail/2332994",
           "source": "财联社热门",
@@ -2263,19 +2484,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时19分 ~ 19时38分]"
-        },
-        {
-          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
-          "url": "https://wallstreetcn.com/articles/3769054",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时19分 ~ 22时16分]"
         },
         {
           "title": "外媒：特朗普正“认真考虑”让美国退出北约",
@@ -2303,6 +2511,32 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时37分 ~ 09时13分]"
+        },
+        {
+          "title": "外交部谈特朗普涉伊朗言论",
+          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时51分 ~ 23时51分]"
+        },
+        {
+          "title": "特朗普话音刚落 伊朗导弹直扑以色列",
+          "url": "https://www.toutiao.com/trending/7623977327684226579/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12,
+            15,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时19分 ~ 23时51分]"
         },
         {
           "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
@@ -2370,21 +2604,6 @@
           "time_info": "[12时19分 ~ 17时51分]"
         },
         {
-          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
-          "url": "https://www.cls.cn/detail/2333305",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时51分 ~ 22时16分]"
-        },
-        {
           "title": "特朗普9点将发表对伊重要讲话，还不忘放“烟雾弹”",
           "url": "https://www.cls.cn/detail/2332758",
           "source": "财联社热门",
@@ -2398,32 +2617,6 @@
           "time_info": "[09时13分 ~ 16时51分]"
         },
         {
-          "title": "外交部谈特朗普涉伊朗言论",
-          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时51分 ~ 22时16分]"
-        },
-        {
-          "title": "特朗普话音刚落 伊朗导弹直扑以色列",
-          "url": "https://www.toutiao.com/trending/7623977327684226579/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            12,
-            15,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时19分 ~ 22时16分]"
-        },
-        {
           "title": "特朗普称美国不需要霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8rzRllzwjx1",
           "source": "凤凰网",
@@ -2433,6 +2626,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时19分 ~ 16时51分]"
+        },
+        {
+          "title": "特朗普讲话后金银直线跳水",
+          "url": "https://www.douyin.com/hot/2452230",
+          "source": "抖音",
+          "ranks": [
+            27,
+            26,
+            9,
+            16,
+            28,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时58分 ~ 23时51分]"
         },
         {
           "title": "特朗普称伊朗新政权总统请求停火",
@@ -2484,22 +2694,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 14时06分]"
-        },
-        {
-          "title": "特朗普讲话后金银直线跳水",
-          "url": "https://www.douyin.com/hot/2452230",
-          "source": "抖音",
-          "ranks": [
-            27,
-            26,
-            9,
-            16,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时58分 ~ 22时16分]"
         },
         {
           "title": "特朗普自行宣称对伊朗取得「快速、决定性、压倒性胜利」，接下来几周将对伊进行更强打击，如何看待这一表态？",
@@ -2606,7 +2800,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -3145,7 +3339,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -3359,6 +3553,17 @@
           "time_info": "19时38分"
         },
         {
+          "title": "特朗普预算案为中期选举铺路：强化国防开支，削减其他项目",
+          "url": "https://wallstreetcn.com/livenews/3081684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "美国驻北约大使：是时候让联盟在霍尔木兹海峡部署护卫舰，而不仅仅停留在口头声明上。我们已提出关于联盟可行性的问题，特朗普总统正在考虑所有选项。",
           "url": "https://flash.jin10.com/detail/20260402004417812800",
           "source": "金十数据",
@@ -3464,7 +3669,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -3555,6 +3760,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "美国总统特朗普宣称，很快将签署命令，从而对国土安全部（DHS）所有雇员支付薪资。",
+          "url": "https://wallstreetcn.com/livenews/3081677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "特朗普发表讲话之际 油价走高",
@@ -3700,6 +3916,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "美国总统特朗普通知司法部长Bondi，她的任期即将结束。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3081669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "韩国财政部称，特朗普讲话后市场波动可能加剧。",
           "url": "https://wallstreetcn.com/livenews/3081171",
           "source": "华尔街见闻-快讯",
@@ -3769,7 +3996,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -3805,8 +4032,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时27分 ~ 22时16分]"
+          "appearance_count": 13,
+          "time_info": "[07时27分 ~ 23时51分]"
         },
         {
           "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
@@ -3847,6 +4074,17 @@
           "time_info": "[05时33分 ~ 06时26分]"
         },
         {
+          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时51分]"
+        },
+        {
           "title": "布油日内涨超1%，美股期货转跌，标普500指数期货现跌0.3%。 特朗普称，将绝不让伊朗拥有核武器。",
           "url": "https://wallstreetcn.com/livenews/3081198",
           "source": "华尔街见闻-快讯",
@@ -3869,17 +4107,6 @@
           "time_info": "20时45分"
         },
         {
-          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
-          "url": "https://wallstreetcn.com/articles/3769052",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "美股股指期货、WTI原油和现货黄金周四开盘基本持稳，现货白银低开0.3%。",
           "url": "https://flash.jin10.com/detail/20260402060250655800",
           "source": "金十数据",
@@ -3897,7 +4124,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -3962,6 +4189,18 @@
           "time_info": "[05时33分 ~ 06时26分]"
         },
         {
+          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2333830",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时51分]"
+        },
+        {
           "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股行业ETF，能源业ETF跌超3.7%",
           "url": "https://wallstreetcn.com/livenews/3081109",
           "source": "华尔街见闻-快讯",
@@ -3974,13 +4213,25 @@
           "time_info": "[05时33分 ~ 06时26分]"
         },
         {
+          "title": "美股三大指数低开 特斯拉跌逾4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时51分]"
+        },
+        {
           "title": "美股跌幅扩大，纳指跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3081637",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -4002,18 +4253,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2333830",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -4024,7 +4264,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -4046,20 +4286,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
         {
-          "title": "美股三大指数低开 特斯拉跌逾4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
-          "source": "百度热搜",
+          "title": "什么信号？华尔街频频传来“避开美股”警告声……",
+          "url": "https://www.cls.cn/detail/2333333",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "23时51分"
         },
         {
           "title": "美股低开低走，纳指跌幅扩大至2%。",
@@ -4068,7 +4308,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -4090,7 +4330,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -4134,7 +4374,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -4156,7 +4396,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -4265,7 +4505,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         }
@@ -4374,11 +4614,12 @@
             17,
             20,
             26,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时19分 ~ 22时16分]"
+          "appearance_count": 10,
+          "time_info": "[12时19分 ~ 23时51分]"
         },
         {
           "title": "周三（4月1日）纽约尾盘，美国10年期基准国债收益率涨0.20个基点，报4.3186%，日内交投于4.2574%-4.3324%区间，整体呈现出V形反转。 两年期美债收益率涨0.80个基点，报3.8010%，日内交投于3.7334%-3.8133%区间，北京时间20:00过后出现一波显著的拉升行情。",
